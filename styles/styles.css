@@ -2,3 +2,9 @@ h1 {
     font-size: 125%;
     color: coral;
 }
+
+a,
+p {
+    font-size: 0.8rem;
+    background-color: aquamarine;
+}
